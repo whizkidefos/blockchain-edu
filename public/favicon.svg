@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Outer hexagon -->
+  <path d="M16 2L28 9V23L16 30L4 23V9L16 2Z" stroke="#3B82F6" stroke-width="2" fill="none"/>
+  <!-- Inner connection lines -->
+  <path d="M10 12L16 16L22 12M16 16V24" stroke="#3B82F6" stroke-width="2"/>
+  <!-- Nodes -->
+  <circle cx="10" cy="12" r="2" fill="#3B82F6"/>
+  <circle cx="22" cy="12" r="2" fill="#3B82F6"/>
+  <circle cx="16" cy="24" r="2" fill="#3B82F6"/>
+  <circle cx="16" cy="16" r="2" fill="#3B82F6"/>
+</svg>
